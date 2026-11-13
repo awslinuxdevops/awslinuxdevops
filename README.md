@@ -1,6 +1,9 @@
 <div align="center">
 
-<img src="./assets/aws-devops-banner.png" alt="AWS and DevOps Engineer — Design, Automate, Deploy, Scale, Operate" width="100%" />
+  <img src="./aws-devops-banner.png"
+       alt="AWS DevOps Engineer Banner"
+       width="100%" />
+</div>
 
 # Hi, I'm Gurumurthy Padala 👋
 
